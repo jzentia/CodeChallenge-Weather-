@@ -17,6 +17,5 @@ namespace Service.Weather.Model
         /// Getting the Ultraviolet index
         /// </summary>
         public double UV_Index { get; set; }
-
     }
 }

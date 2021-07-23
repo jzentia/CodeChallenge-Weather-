@@ -12,6 +12,7 @@ namespace Service.Weather.Client
         {
             _client = client ?? throw new ArgumentNullException(nameof(client));
         }
+
         public async Task<Response> GetAsync<Response>(string requestURL)
         {
             try
