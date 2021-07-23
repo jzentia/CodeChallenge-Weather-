@@ -1,0 +1,12 @@
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\bin\Debug\net5.0\Service.Weather.deps.json
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\bin\Debug\net5.0\Service.Weather.dll
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\bin\Debug\net5.0\ref\Service.Weather.dll
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\bin\Debug\net5.0\Service.Weather.pdb
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\Service.Weather.csproj.AssemblyReference.cache
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\Service.Weather.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\Service.Weather.AssemblyInfoInputs.cache
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\Service.Weather.AssemblyInfo.cs
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\Service.Weather.csproj.CoreCompileInputs.cache
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\Service.Weather.dll
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\ref\Service.Weather.dll
+E:\Personal Files\John\CodeChallenge\CodeChallenge\ServiceWeather\obj\Debug\net5.0\Service.Weather.pdb
